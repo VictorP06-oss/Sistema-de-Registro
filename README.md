@@ -3,3 +3,7 @@
 - Estado del Proyecto: En construccion
 
 **AYUDA**
+
+Para Ejecutar el sistema, Seleccionar:
+
+```npm install react```
