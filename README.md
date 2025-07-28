@@ -7,3 +7,6 @@
 Para Ejecutar el sistema, Seleccionar:
 
 ```npm install react```
+**QUE SE HACE**
+<DEV>
+
